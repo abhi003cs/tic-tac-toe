@@ -22,10 +22,6 @@ A Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
 
-## Screenshot
-
-(Add a screenshot here later)
-
 ## Author
 
 Abhishek Ranjan
