@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color:#548687;
+    background-color:#779695;
     display:flex;
     flex-direction:column;
     justify-content:center;
@@ -18,11 +18,12 @@ main{
 }
 
 h1{
-    margin-bottom:30px;
-    margin-top: 150px;
+    margin-bottom:20px;
+    margin-top: 100px;
 
+    font-size: 40px;
 
-    color: rgb(156, 8, 8);
+    color: rgb(0, 0, 0);
 }
 
 .container{
@@ -40,11 +41,11 @@ h1{
 .box{
     height: 100px;
     width: 100px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     border: none;
     cursor: pointer;
-    box-shadow:0 0 8px rgba(0,0,0,0.3);
+    box-shadow:0 0 8px rgba(218, 46, 46, 0.151);
     transition:0.2s;
     font-size: 60px;
     color: rgb(140, 6, 6);
@@ -61,7 +62,7 @@ h1{
 
 #new-btn{
    margin-bottom: 0px;
-    padding: 25px;
+    padding: 20px;
     background-color: rgb(25, 24, 24);
     color: white;
     font-family: cursive;
@@ -70,7 +71,7 @@ h1{
 }
 #msg{
     margin-bottom: 10px;
-   color: rgb(164, 136, 102);
+   color: #5ce23e;
    font-size: 50px;
    font-weight: 600;
 }

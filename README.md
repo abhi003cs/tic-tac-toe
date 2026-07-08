@@ -1,27 +1,50 @@
-# Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
-A Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
+An interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. Play with a friend in a classic two-player (X vs O) game with automatic winner detection and game reset functionality.
 
-## Features
+## 📸 Screenshot
 
-- Two-player game (X and O)
-- Detects winner
-- Reset Game button
-- New Game button
-- Responsive UI
-- Clean and simple design
+![Tic-Tac-Toe Game](images/screenshot.png)
 
-## Technologies Used
+> **Note:** If your screenshot is in the repository's main folder, replace `images/screenshot.png` with `screenshot.png`.
 
-- HTML5
-- CSS3
-- JavaScript
+## ✨ Features
 
-## How to Run
+* 🎯 Two-player gameplay (X and O)
+* 🏆 Automatic winner detection
+* 🤝 Detects draw matches
+* 🔄 Reset Game button
+* 🆕 New Game button
+* 📱 Responsive and clean user interface
 
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
+## 🛠️ Technologies Used
 
-## Author
+* HTML5
+* CSS3
+* JavaScript
 
-Abhishek Ranjan
+## 🚀 How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+   ```
+2. Open the project folder.
+3. Double-click **index.html** or open it in your preferred web browser.
+
+## 📂 Project Structure
+
+```text
+Tic-Tac-Toe/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+└── images/
+    └── screenshot.png
+```
+
+## 👨‍💻 Author
+
+**Abhishek Ranjan**
