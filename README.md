@@ -2,6 +2,10 @@
 
 An interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. Play with a friend in a classic two-player (X vs O) game with automatic winner detection and game reset functionality.
 
+## 🌐 Live Demo
+
+🔗 https://abhi003cs.github.io/tic-tac-toe/
+
 ## 📸 Screenshot
 
 ![Tic-Tac-Toe Game](images/screenshot.png)
